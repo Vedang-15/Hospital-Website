@@ -1,0 +1,260 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #FCF8EC;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 20px;
+  padding-bottom: 5%;
+}
+
+.navbar {
+  box-shadow: -2px 8px 6px -4px #999;
+  background-color: #FCF8EC;
+}
+/* .fixed-top {
+  background-color: #FCF8EC;
+} */
+.navbar-brand {
+  color:#964488;
+  font-family: Merriweather;
+  font-weight: 600;
+  font-size: 25px;
+  margin-top: 5px;
+
+}
+.navbar-toggler {
+  background-color: #FCE2CE;
+}
+.navbar-brand:hover {
+  color:#E93B81;
+}
+.nav-link {
+  color :#964488;
+  font-weight: 500;
+
+}
+
+.nav-link:hover {
+  color:#E93B81;
+}
+
+.doc-pic {
+  border-radius: 100%;
+  width:60%;
+  /* padding-top: 50px;
+  padding-left: 50px;*/
+  margin-left: 80px;
+  margin-top:60px;
+  border: 6px solid #FCE2CE;
+}
+
+.tagline {
+  text-align: center;
+  color:#964488;
+  padding-left: 30px;
+  padding-right: 60px;
+  padding-top: 30px;
+}
+.main-head {
+  color:#964488;
+  padding-top: 100px;
+  margin-right: 110px;
+  font-weight: bold;
+  padding-left:5px;
+}
+
+.intro {
+  padding: 20px 0 30px 5px;
+  color:#964488;
+}
+.btn-1 {
+  background-color:#964488;
+  color:white;
+  text-align: left;
+
+}
+
+.btn-1:hover {
+  background-color:white;
+  color:#E93B81;
+
+}
+
+
+/* services section */
+#features {
+  background-color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.feat-img {
+  color:#964488;
+}
+
+.feat-head {
+  padding-top:20px;
+  font-size: 50px;
+  font-weight: bold;
+  color:#964488;
+}
+
+.feat-info {
+  padding-top:10px;
+  color:gray;
+}
+
+
+
+/* specialities */
+#specialities {
+  background-color: #FCF8EC;
+  padding: 6% 10%;
+  text-align: center;
+}
+
+.spec-info {
+  padding-left: 100px;
+  padding-right: 100px;
+  color:gray;
+}
+.org-img {
+  padding-top : 50px;
+  padding-bottom: 20px;
+  color:#964488;
+}
+
+.sec-head{
+  font-weight: bold;
+  padding-bottom: 10px;
+  color:#964488;
+}
+
+/* doctors */
+#doctors {
+  padding: 3% 10% 5%;
+  text-align: center;
+}
+
+.doctor-images {
+  width:50%;
+  text-align:center;
+  padding-top: 20px;
+  border-radius: 100%;
+  border: 5px solid #FCE2CE;
+  margin-top: 30px;
+  margin-bottom:18px;
+}
+.doc-head {
+  color:#964488;
+  font-weight: 500;
+}
+
+
+
+/* testimonials */
+
+#testimonials {
+  background-color: #FCF8EC;
+  padding-top: 3%;
+}
+
+.doc-patient {
+  width:65%;
+  border-radius: 100%;
+  margin-top: 60px;
+  margin-bottom:20px;
+  border: 6px solid #FCE2CE;
+}
+
+.testimonials-image {
+  width:40%;
+  border-radius: 100%;
+  margin-right:10px;
+}
+
+.carousel-item {
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.test-heading {
+    color:#964488;
+    padding:8% 10% 3%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.value {
+  text-align: center;
+}
+
+.testimonials-head {
+  padding-bottom:30px;
+  color:#964488;
+  text-align: center;
+
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+/* book now */
+
+#Book-now {
+  padding: 1% 14% 8%;
+
+}
+.docpic2 {
+  width:80%;
+  border-radius: 50%;
+  border: 6px solid #FCE2CE;
+  margin-top:60px;
+}
+form {
+  border: 6px solid #FCE2CE;
+  margin-top: 30px;
+  padding:20px 20px 20px 20px;
+  background-color: #FCF8EC;
+
+}
+.box {
+  padding:5px 5px;
+  margin-top:10px ;
+  margin-bottom:10px ;
+}
+.box2 {
+  padding:8px 58px 8px 5px;
+  margin-top:10px ;
+  margin-bottom:10px ;
+  color:gray;
+
+}
+.btn-2 {
+  background-color:#964488;
+  color:white;
+  margin: 10px auto;
+}
+.btn-2:hover {
+  background-color:white;
+  color:#E93B81;
+
+}
+
+
+/* footer */
+#footer {
+  background-color: #FCF8EC;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+.social-icons {
+  padding:0 10px 20px;
+  color :#964488;
+}
